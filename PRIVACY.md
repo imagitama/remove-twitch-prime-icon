@@ -1,0 +1,1 @@
+This WebExtension does not use your personal information. It just removes specific icons from Twitch chats.
